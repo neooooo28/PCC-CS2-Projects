@@ -1,0 +1,17 @@
+# Check current git status for changes
+git status
+'
+# Add all commits
+git add -A 
+
+# Document commits
+git commit -m "message"
+
+# Push to main repo
+git push
+
+# Check status
+git status
+
+
+
